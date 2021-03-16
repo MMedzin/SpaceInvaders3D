@@ -1,6 +1,8 @@
 # SpaceInvaders3D
-## Maria Mikołajczak
-## Michał Mędzin
+
+Project developed by:
+- Maria Mikołajczak
+- Michał Mędzin
 
 ### Description
 3D version of a classical arcade game SpaceInvaders. Game's graphics are developed using ```OpenGL```. Models of game objects were created by authors.
