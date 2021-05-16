@@ -1,7 +1,7 @@
 # SpaceInvaders3D
 
 Project developed by:
-- Maria Mikołajczak
+- Maria Mikołajczak (https://github.com/marmiko)
 - Michał Mędzin
 
 ### Description
